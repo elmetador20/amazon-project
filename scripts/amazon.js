@@ -1,4 +1,5 @@
 import {cart} from '../data/cart.js'//..we use to get out of the folder
+import {products} from '../data/products.js';
 let productHTML='';
 
 
